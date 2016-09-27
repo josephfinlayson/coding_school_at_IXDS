@@ -1,23 +1,10 @@
 
 
     
-            2. Eloquent JS homework - put it in slack so I can check homework
-
-    -->  
+<!-- FUTURE LESSON IDEAS
 
 
-# IXDS Web Class
-
-## Mon 19-09-2016 - Session 7
-
-Lesson plan:
-
-* Review chapter three of [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html#program_structure)
-
-
-Or: Return to shakespeare on mars
-
-    * Change image every time page is refreshed (random image)
+   * Change image every time page is refreshed (random image)
     * Change quote every time page is refreshed (random quote search)
     * Write some javascript to create interactivity
     * When you click the button log to the console
@@ -25,10 +12,51 @@ Or: Return to shakespeare on mars
     * Create a button that when click triggers new quote
     * Create a button that triggers new image
 
+
+
+-->
+
+
+
+
+# IXDS Web Class
+
+<!--
+
+## Mon 31-10-2016 - Session 12  - LAST LESSON
+
+## Mon 24-10-2016 - Session 11
+
+## Mon 17-10-2016 - Session 10
+
+## Mon 10-10-2016 - Session 9 - Renee
+
+## Mon 03-10-2016 - Session 8 - cancelled
+
+-->
+
+
+## Mon 26-09-2016 - Session 7
+
+Lesson plan:
+
+* Review chapter three of [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html#program_structure)
+
 #### Homework:
 
+* Finish chapter 3 last exercise: 
+  > Next, write a function called countChar that behaves like countBs, except it takes a second argument that indicates the character that is to be counted (rather than counting only uppercase “B” characters). Rewrite countBs to make use of this new function.
+
 * **Read and do exercises of chapter four** of [Eloquent Javascript](http://eloquentjavascript.net/03_functions.html)
-* TBD
+* Special for Gloria and anyone else who is interested, expand twitter example with real tweets from twitter
+    * Download this [repository](https://github.com/josephfinlayson/client-side-oauth-example)
+    * open it on your local machine
+    * see tweets coming out in the console
+    * register your app with twitter
+    * change public key in app (see code for where)
+    * incorporate code into your existing library, render tweets into HTML using jQuery
+    * Take over world!
+    
 ## Mon 19-09-2016 - Session 6
 
 Lesson plan:
