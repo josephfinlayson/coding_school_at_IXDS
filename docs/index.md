@@ -2,18 +2,13 @@
 
     
 <!-- FUTURE LESSON IDEAS
-
-
-   * Change image every time page is refreshed (random image)
+    * Change image every time page is refreshed (random image)
     * Change quote every time page is refreshed (random quote search)
     * Write some javascript to create interactivity
     * When you click the button log to the console
     * When you click the button log the input
     * Create a button that when click triggers new quote
     * Create a button that triggers new image
-
-
-
 -->
 
 
@@ -26,14 +21,33 @@
 ## Mon 31-10-2016 - Session 12  - LAST LESSON
 
 ## Mon 24-10-2016 - Session 11
+!-->
 
 ## Mon 17-10-2016 - Session 10
 
+[I am sorry](http://imgur.com/a/8DXZq)
+
+Lesson plan:
+Review homework, present the project ideas to the class?
+What were tricky bits in ch. 4?
+Review Objects & Arrays
+ - Using the console https://www.khanacademy.org/computing/computer-programming/programming/objects/a/review-objects
+
+Homework:
+
+If you have a project write some TODO items, and get as far as you can in doing them
+Think about the gaps in your knowledge, what doesn't make sense?  Write it out and email it to me 
+Go back to Shakespeare on mars, fix any problems you were having with it before next lesson to present to class
+
 ## Mon 10-10-2016 - Session 9 - Renee
 
-## Mon 03-10-2016 - Session 8 - cancelled
+Lesson plan: 
 
--->
+#### Homework:
+Take a project idea and write the steps you would need in code to complete it. Be as detailed as you possible can and include the specific programming elements that you have learned so far (chapters 1-4), for example here we would need a variable, a function, an array etc. If you can, try and write out some of the code itself as well. And, if you think you need to include other libraries or API's you can include a bit of research of possible resources that might be useful. If you have time, review chapter 4 and try to understand objects and arrays a bit more. 
+
+
+## Mon 03-10-2016 - Session 8 - cancelled
 
 
 ## Mon 26-09-2016 - Session 7
